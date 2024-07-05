@@ -9,7 +9,6 @@ https://elmas3.github.io/mao-seminar/
 わかば
 
 
-
 # ディレクトリ構成
 ```
 seminar/
